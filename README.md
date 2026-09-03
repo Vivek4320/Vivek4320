@@ -2,10 +2,8 @@
 
 <img
   src="./assets/vivek.png"
-  width="180"
-  height="180"
+  width="250"
   alt="Vivek Pankhaniya"
-  style="border-radius: 100%; object-fit: cover;"
 />
 
 # Hey, I'm Vivek 👋
