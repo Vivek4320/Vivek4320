@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/vivek.png" width="180" alt="Vivek Pankhaniya"/>
+<img
+  src="./assets/profile.png"
+  width="180"
+  height="180"
+  alt="Vivek Pankhaniya"
+  style="border-radius: 50%; object-fit: cover;"
+/>
 
 # Hey, I'm Vivek 👋
 
