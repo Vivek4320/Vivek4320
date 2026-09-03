@@ -253,7 +253,7 @@ https://github.com/Vivek4320/RoofRay
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -265,27 +265,31 @@ https://github.com/Vivek4320/RoofRay
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vivek4320&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Vivek4320&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Animation
+## 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
