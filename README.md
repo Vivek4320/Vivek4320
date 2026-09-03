@@ -280,9 +280,20 @@ https://github.com/Vivek4320/RoofRay
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </picture>
 
 </div>
@@ -293,7 +304,10 @@ https://github.com/Vivek4320/RoofRay
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek4320&hide_border=true" alt="GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek4320&theme=github-compact&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
