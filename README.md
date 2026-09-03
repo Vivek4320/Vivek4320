@@ -315,8 +315,6 @@ https://github.com/Vivek4320/RoofRay
 
 ### 💙 Thanks for visiting my profile!
 
-<br/><br/>
-
 **Build • Learn • Break • Fix • Ship 🚀**
 
 </div>
