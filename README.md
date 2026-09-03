@@ -70,8 +70,8 @@ execution, and debugging easier from a single interface.
 
 ### 🔗 Links
 
-* 📦 **Repository:** https://github.com/Vivek4320/CodeIQ
 * 🌐 **Live:** https://code-iq-ai.vercel.app/
+* 📦 **Repository:** https://github.com/Vivek4320/CodeIQ
 
 > 📌 Project status: **Development / Maintenance**
 
@@ -99,9 +99,8 @@ and smooth animations.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-### 🔗 Repository
-
-https://github.com/Vivek4320/Airavat-Security-Service
+* 🌐 **Live:** https://www.airavatsecurity.in/
+* 📦 **Repository:** https://github.com/Vivek4320/Airavat-Security-Service
 
 > 📌 Project status: **Project / Showcase**
 
