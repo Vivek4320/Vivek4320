@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/profile.png"
+  src="./assets/vivek.png"
   width="180"
   height="180"
   alt="Vivek Pankhaniya"
