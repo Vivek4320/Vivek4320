@@ -5,7 +5,7 @@
   width="180"
   height="180"
   alt="Vivek Pankhaniya"
-  style="border-radius: 50%; object-fit: cover;"
+  style="border-radius: 100%; object-fit: cover;"
 />
 
 # Hey, I'm Vivek 👋
