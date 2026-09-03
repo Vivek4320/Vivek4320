@@ -253,36 +253,6 @@ https://github.com/Vivek4320/RoofRay
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vivek4320&show_icons=true&hide_border=true&rank_icon=github"
-  height="170"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek4320&layout=compact&hide_border=true"
-  height="170"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Vivek4320&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Animation
 
 <div align="center">
@@ -290,19 +260,6 @@ https://github.com/Vivek4320/RoofRay
 <img
   src="https://raw.githubusercontent.com/Vivek4320/Vivek4320/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek4320&theme=github-compact&hide_border=true"
-  alt="GitHub Activity Graph"
 />
 
 </div>
