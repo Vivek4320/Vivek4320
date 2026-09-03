@@ -257,9 +257,17 @@ https://github.com/Vivek4320/RoofRay
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek4320&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Vivek4320&show_icons=true&hide_border=true&rank_icon=github"
+  height="170"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek4320&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek4320&layout=compact&hide_border=true"
+  height="170"
+  alt="Top Languages"
+/>
 
 </div>
 
