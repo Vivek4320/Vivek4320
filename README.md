@@ -1,11 +1,5 @@
 <div align="center">
 
-<img
-  src="./assets/vivek.png"
-  width="250"
-  alt="Vivek Pankhaniya"
-/>
-
 # Hey, I'm Vivek 👋
 
 ### Full-Stack Developer • Builder • Problem Solver
