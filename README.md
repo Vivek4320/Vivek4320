@@ -77,7 +77,37 @@ execution, and debugging easier from a single interface.
 
 ---
 
-## 02 — 🌱 SIH2025-CarbonX
+## 02 — 🛡️ Airavat Security Service
+
+### `Professional Security Service Website`
+
+A professional web project built for **Airavat Security Service**,
+focused on presenting security services through a modern web experience.
+
+The project explores responsive UI, modern frontend architecture,
+and smooth animations.
+
+### Highlights
+
+* 📱 Responsive design
+* 🎨 Modern UI
+* ⚡ Next.js application
+* ✨ Smooth animations
+* 🏢 Professional business presentation
+
+### Tech
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+### 🔗 Repository
+
+https://github.com/Vivek4320/Airavat-Security-Service
+
+> 📌 Project status: **Project / Showcase**
+
+---
+
+## 03 — 🌱 SIH2025-CarbonX
 
 ### `Blockchain-powered Blue Carbon Registry`
 
@@ -107,7 +137,7 @@ https://github.com/Vivek4320/SIH2025-CarbonX
 
 ---
 
-## 03 — 🛡️ Shieldify
+## 04 — 🛡️ Shieldify
 
 ### `AI-Powered Web Application Firewall`
 
@@ -140,8 +170,6 @@ https://github.com/Vivek4320/VikasSaptah2025-Shieldify
 > 📌 Project status: **Project / Showcase**
 
 ---
-
-## 04 — 🛡️ Airavat Security Service
 
 ### `Professional Security Service Website`
 
