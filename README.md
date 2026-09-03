@@ -315,8 +315,6 @@ https://github.com/Vivek4320/RoofRay
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Vivek4320&style=for-the-badge" alt="Profile Views"/>
-
 <br/><br/>
 
 **Build • Learn • Break • Fix • Ship 🚀**
