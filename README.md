@@ -49,8 +49,6 @@ I build end-to-end web applications, from responsive user interfaces to backend 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek4320&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Vivek4320)
-
 *Always learning. Always building.*
 
 </div>
