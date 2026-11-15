@@ -4,7 +4,7 @@
 
 **Frontend Developer | React · Next.js · TypeScript**
 
-Building responsive web applications with a focus on clean, maintainable interfaces.
+I build responsive web applications with clean, maintainable interfaces and continuously expand my skills across the web stack.
 
 [GitHub](https://github.com/Vivek4320) · [LinkedIn](https://www.linkedin.com/in/vivek-pankhaniya-15b185382/) · [Email](mailto:vivekpankhaniya43@gmail.com)
 
@@ -12,27 +12,37 @@ Building responsive web applications with a focus on clean, maintainable interfa
 
 ---
 
-### About
+### About Me
 
-- Frontend Developer at **WorkLift**.
-- Working with React, Next.js, TypeScript, and Tailwind CSS.
-- Currently learning backend development to build a stronger end-to-end understanding of web applications.
+- Frontend developer focused on building responsive and scalable web interfaces.
+- Interested in clean UI, reusable components, and practical product development.
+- Currently expanding my knowledge of backend development, APIs, and databases.
 
 ### Tech Stack
 
-**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+<p>
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="38" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
+</p>
 
-**Backend & Databases (Learning):** Node.js · APIs · SQL · MongoDB
+<p>
+  <strong>Backend & Databases · Learning</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase" height="38" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Supabase"/>
+</p>
 
-**Tools:** Git · GitHub · VS Code · Figma
+<p>
+  <strong>Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="38" alt="Git, GitHub, VS Code, Figma, Postman"/>
+</p>
 
 ### Selected Projects
 
-- **[CodeIQ](https://github.com/Vivek4320/CodeIQ)** — Browser-based coding platform with AI-assisted coding features. [Live Demo](https://code-iq-ai.vercel.app/)
-- **[Airavat Security Service](https://github.com/Vivek4320/Airavat-Security-Service)** — Responsive website for a security services business. [Live Website](https://www.airavatsecurity.in/)
+- **[CodeIQ](https://github.com/Vivek4320/CodeIQ)** — Browser-based coding platform with AI-assisted coding and debugging features. [Live Demo](https://code-iq-ai.vercel.app/)
+- **[Airavat Security Service](https://github.com/Vivek4320/Airavat-Security-Service)** — Responsive website for a professional security services business. [Live Website](https://www.airavatsecurity.in/)
+- **[RoofRay](https://github.com/Vivek4320/RoofRay)** — Rooftop solar feasibility project with location-based analysis and reporting.
+- **[TourSpot](https://github.com/kedar5278/TourSpot)** — Travel booking platform with tour packages, user authentication, booking management, and online payment integration. [Live Demo](https://tour-spot-six.vercel.app/)
 - **[CarbonX](https://github.com/Vivek4320/SIH2025-CarbonX)** — Smart India Hackathon 2025 project exploring a blockchain-powered blue carbon registry.
 - **[Shieldify](https://github.com/Vivek4320/VikasSaptah2025-Shieldify)** — Cybersecurity project exploring an AI-assisted web application firewall.
-- **[RoofRay](https://github.com/Vivek4320/RoofRay)** — Rooftop solar feasibility project with location-based analysis and reporting.
 
 ---
 
