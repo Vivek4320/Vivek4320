@@ -2,9 +2,9 @@
 
 # Vivek Pankhaniya
 
-**Frontend Developer | React · Next.js · TypeScript**
+**Full Stack Developer | React · Next.js · Node.js · TypeScript**
 
-I build responsive web applications with clean, maintainable interfaces and continuously expand my skills across the web stack.
+I build end-to-end web applications, from responsive user interfaces to backend services and database integration.
 
 [GitHub](https://github.com/Vivek4320) · [LinkedIn](https://www.linkedin.com/in/vivek-pankhaniya-15b185382/) · [Email](mailto:vivekpankhaniya43@gmail.com)
 
@@ -14,9 +14,10 @@ I build responsive web applications with clean, maintainable interfaces and cont
 
 ### About Me
 
-- Frontend developer focused on building responsive and scalable web interfaces.
-- Interested in clean UI, reusable components, and practical product development.
-- Currently expanding my knowledge of backend development, APIs, and databases.
+- Full stack developer focused on building responsive, scalable web applications.
+- Build frontend experiences with React, Next.js, TypeScript, and Tailwind CSS.
+- Work with backend development, APIs, authentication, and database integration.
+- Value clean code, reusable components, and practical problem-solving.
 
 ### Tech Stack
 
@@ -26,7 +27,7 @@ I build responsive web applications with clean, maintainable interfaces and cont
 </p>
 
 <p>
-  <strong>Backend & Databases · Learning</strong><br/>
+  <strong>Backend & Databases</strong><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase" height="38" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Supabase"/>
 </p>
 
