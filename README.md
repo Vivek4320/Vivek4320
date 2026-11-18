@@ -38,7 +38,7 @@ I build end-to-end web applications, from responsive user interfaces to backend 
 
 ### Selected Projects
 
-- **[CodeIQ](https://github.com/Vivek4320/CodeIQ)** — Browser-based coding platform with AI-assisted coding and debugging features. [Live Demo](https://codeiq..runs-on.dev/)
+- **[CodeIQ](https://github.com/Vivek4320/CodeIQ)** — Browser-based coding platform with AI-assisted coding and debugging features. [Live Demo](https://codeiq.runs-on.dev/)
 - **[Airavat Security Service](https://github.com/Vivek4320/Airavat-Security-Service)** — Responsive website for a professional security services business. [Live Website](https://www.airavatsecurity.in/)
 - **[RoofRay](https://github.com/Vivek4320/RoofRay)** — Rooftop solar feasibility project with location-based analysis and reporting.
 - **[TourSpot](https://github.com/kedar5278/TourSpot)** — Travel booking platform with tour packages, user authentication, booking management, and online payment integration.
